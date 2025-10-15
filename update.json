@@ -1,6 +1,7 @@
 {
   "latest_version": "1.0",
-  "download_url": "https://azureford-my.sharepoint.com/:u:/g/personal/vgaddam2_ford_com/EY1k_LzdAtRLv31HLTjLo18BYJxsw8H35jWzflfD0S29FQ?e=y92o5i",
+  "download_url": "https://azureford-my.sharepoint.com/:u:/g/personal/vgaddam2_ford_com/EY1k_LzdAtRLv31HLTjLo18BYJxsw8H35jWzflfD0S29FQ",
   "changelog": "Performance improvements, new Ctrl+F highlight footer, bug fixes",
   "min_supported_version": "1.0.0"
+
 }
